@@ -12,8 +12,8 @@ Just completed a coding bootcamp, learned so much, and still eager and excited t
 <h3 align="center">Languages and Tools</h3>
 
 - 💬 Languages [Python, JavaScript, Java]
-- 💻 Frontend Development [CSS, HTML, ReactJS, Bootstrap, jQuery, AJAX, JPA, JSTL]
-- 💿 Backend Development [NodeJS, Spring Tool Suite, Express.JS, Flask, Bcrypt, JSP, JSON, Spring Boot, Tomcat, Apache, Dependency Injection]
+- 💻 Frontend Dev [CSS, HTML, ReactJS, Bootstrap, jQuery, AJAX, JPA, JSTL]
+- 💿 Backend Dev [NodeJS, Spring Tool Suite, Express.JS, Flask, Bcrypt, JSP, JSON, Spring Boot, Tomcat, Apache]
 - 🧮 Databases [MySQL, Mongoose,  MongoDB]
 - 🗄️ Tools [AWS, Postman, MySQL Workbench, VS Code, GitHub]
 - 🖇️ Other [Agile, Scrum, RESTful Architecture & API, MVC]
