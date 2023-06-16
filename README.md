@@ -8,6 +8,14 @@ Just completed a coding bootcamp, learned so much, and still eager and excited t
 - 🌱 I’m also currently learning data visualization for another future project I'm planning to build, stay tuned ...
 - 👯 I’m also working on my algo skills, the <a href="https://github.com/KyleGuzman/Algorithms"> repository</a> is a work in progress, I will keep adding to it. 😄
 - 📫 How to reach me: <a href="mailto:raynardkyleguzman@gmail.com">raynardkyleguzman@gmail.com</a>
+
+You can also find me on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+[2]: [https://www.linkedin.com/in/heinz-martin/](https://www.linkedin.com/in/raynard-kyle-guzman-32b88a251/)
 <!--
 **KyleGuzman/KyleGuzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
