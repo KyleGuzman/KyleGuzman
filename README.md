@@ -12,10 +12,10 @@ Just completed a coding bootcamp, learned so much, and still eager and excited t
 You can also find me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://cdn-icons-png.flaticon.com/256/61/61109.png
 
 <!-- Links to your social media accounts -->
-[2]: https://www.linkedin.com/in/heinz-martin/](https://www.linkedin.com/in/raynard-kyle-guzman-32b88a251/
+[2]: https://www.linkedin.com/in/raynard-kyle-guzman-32b88a251/
 <!--
 **KyleGuzman/KyleGuzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
