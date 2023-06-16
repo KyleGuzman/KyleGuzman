@@ -9,7 +9,7 @@ Just completed a coding bootcamp, learned so much, and still eager and excited t
 - 👯 I’m also working on my algo skills, the <a href="https://github.com/KyleGuzman/Algorithms"> repository</a> is a work in progress, I will keep adding to it. 😄
 - 📫 How to reach me: <a href="mailto:raynardkyleguzman@gmail.com">raynardkyleguzman@gmail.com</a>
 
-You can also find me on [![LinkedIn][2.2]]| width=100[2].
+You can also find me on [![LinkedIn][2.2][2].
 
 <!-- Icons -->
 [2.2]: https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png 
