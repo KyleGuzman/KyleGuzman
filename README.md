@@ -1,5 +1,7 @@
 ### Hi there, I'm Kyle! 👋
 
+Full Stack Developer / Engineer. Passionate about learning, especially cool tech stuff and innovation. 
+
 <!--
 **KyleGuzman/KyleGuzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
