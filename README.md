@@ -16,10 +16,7 @@ You can also find me on [![LinkedIn][2.2]][2].
 
 <!-- Links to your social media accounts -->
 [2]: https://www.linkedin.com/in/raynard-kyle-guzman-32b88a251/
-LinkedIn{
-   width:150px;
-   height:100px;
-}
+<a href="https://www.linkedin.com/in/raynard-kyle-guzman-32b88a251/"><img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" align="left" height="48" width="48" ></a>
 <!--
 **KyleGuzman/KyleGuzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
