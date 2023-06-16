@@ -10,7 +10,7 @@ Just completed a coding bootcamp, learned so much, and still eager and excited t
 - 📫 How to reach me: <a href="mailto:raynardkyleguzman@gmail.com">raynardkyleguzman@gmail.com</a>
 
 You can also find me on 
-<a href="https://www.linkedin.com/in/raynard-kyle-guzman-32b88a251/"><img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" align="left" height="48" width="48" ></a>
+<a href="https://www.linkedin.com/in/raynard-kyle-guzman-32b88a251/"><img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" height="48" width="48" ></a>
 <!--
 **KyleGuzman/KyleGuzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
