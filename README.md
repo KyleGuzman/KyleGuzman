@@ -9,7 +9,7 @@ Just completed a coding bootcamp, learned so much, and still eager and excited t
 - 👯 I’m also working on my algo skills, the <a href="https://github.com/KyleGuzman/Algorithms"> repository</a> is a work in progress, I will keep adding to it. 😄
 - 📫 How to reach me: <a href="mailto:raynardkyleguzman@gmail.com">raynardkyleguzman@gmail.com</a>
 
-<h3>Languages and Tools</h3>
+<h3 align="center">Languages and Tools</h3>
 
 - 🔭 Languages [Python, JavaScript, Java]
 Frontend Development [CSS, HTML, ReactJS, Bootstrap, Sass, Tailwind, Webpack, EmberJS, jQuery, AJAX, JPA]
