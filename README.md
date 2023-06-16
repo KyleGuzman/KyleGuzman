@@ -9,7 +9,7 @@ Just completed a coding bootcamp, learned so much, and still eager and excited t
 - 👯 I’m also working on my algo skills, the <a href="https://github.com/KyleGuzman/Algorithms"> repository</a> is a work in progress, I will keep adding to it. 😄
 - 📫 How to reach me: <a href="mailto:raynardkyleguzman@gmail.com">raynardkyleguzman@gmail.com</a>
 
-<img src="https://media2.giphy.com/media/XV74ZvGRXcZdS/giphy.gif?cid=6c09b9523jvb6bfd8aqzqhbbu408tiwm7no8jnfu4hojhwyz&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="center" margin=10px>
+<p align="center"><img src="https://media2.giphy.com/media/XV74ZvGRXcZdS/giphy.gif?cid=6c09b9523jvb6bfd8aqzqhbbu408tiwm7no8jnfu4hojhwyz&ep=v1_gifs_search&rid=giphy.gif&ct=g"></p>
 
 <h3 align="center">Languages and Tools</h3>
 
