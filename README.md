@@ -12,7 +12,7 @@ Just completed a coding bootcamp, learned so much, and still eager and excited t
 You can also find me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
-[2.2]: https://cdn-icons-png.flaticon.com/256/61/61109.png
+[2.2]: ![](https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png | width=100)
 
 <!-- Links to your social media accounts -->
 [2]: https://www.linkedin.com/in/raynard-kyle-guzman-32b88a251/
