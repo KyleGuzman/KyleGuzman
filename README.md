@@ -9,6 +9,16 @@ Just completed a coding bootcamp, learned so much, and still eager and excited t
 - 👯 I’m also working on my algo skills, the <a href="https://github.com/KyleGuzman/Algorithms"> repository</a> is a work in progress, I will keep adding to it. 😄
 - 📫 How to reach me: <a href="mailto:raynardkyleguzman@gmail.com">raynardkyleguzman@gmail.com</a>
 
+Languages [Python, JavaScript, Java]
+Frontend Development [CSS, HTML, ReactJS, Bootstrap, Sass, Tailwind, Webpack, EmberJS, jQuery, AJAX, JPA]
+Backend Development [NodeJS, Spring Tool Suite, Spring Security, Express.JS, Flask, Bcrypt, JSP, JSON, EJS, npm, Socket.IO, Redis, Spring Boot, Hibernate, Servlets, Tomcat, Apache, Dependency Injection]
+Databases [MySQL, MongoDB, SQLite]
+DevOps [AWS, Docker, Kubernetes, Bash, Azure]
+Software [Postman, MySQL Workbench, VS Code]
+Version Control Systems [Git, Github, Gitlab]
+OS [Linux SysAdmin: CentOS, Ubuntu, Fedora]
+Other [Agile, Scrum, RESTful Architecture & API, MVC, SDLC]
+
 You can also find me on <br>
 <a href="https://www.linkedin.com/in/raynard-kyle-guzman-32b88a251/"><img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" height="48" width="48" ></a>
 <!--
