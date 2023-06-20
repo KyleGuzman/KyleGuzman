@@ -21,7 +21,7 @@ Just completed a coding bootcamp, learned so much, and still eager and excited t
 - 🖇️ Other [Agile, Scrum, RESTful Architecture & API, MVC]
 
 You can also find me on <br>
-<a href="https://www.linkedin.com/in/raynard-kyle-guzman-32b88a251/"><img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" height="48" width="48" ></a>
+<a href="https://www.linkedin.com/in/rkguzman/"><img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" height="48" width="48" ></a>
 <!--
 **KyleGuzman/KyleGuzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
