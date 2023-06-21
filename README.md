@@ -24,11 +24,9 @@ Just completed a coding bootcamp, learned so much, and still eager and excited t
 <a href="https://www.mysql.com/"><img src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-21-1174941.png?f=webp" height="48" width="48" ></a>
 <a href="https://nodejs.org/en/about"><img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png" height="48" width="48" ></a>
 <a href="https://www.postman.com/"><img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-3521648-2945092.png" height="48" width="48" ></a>
-<a href="https://www.python.org/"><img src="https://www.iconarchive.com/download/i73027/cornmanthe3rd/plex/Other-python.ico" height="48" width="48" ></a>
+<a href="https://www.python.org/"><img src="https://cdn-icons-png.flaticon.com/256/919/919852.png" height="48" width="48" ></a>
 <a href="https://react.dev/"><img src="https://www.shareicon.net/download/2016/07/10/119874_apps.ico" height="48" width="48" ></a>
 <a href="https://spring.io/"><img src="https://docs.spring.io/spring-cloud-sleuth/docs/current/reference/htmlsingle/favicon.ico" height="48" width="48" ></a>
-<a href=""><img src="" height="48" width="48" ></a>
-<a href=""><img src="" height="48" width="48" ></a>
 - 💬 Languages [Python, JavaScript, Java]
 - 💻 Frontend Dev [CSS, HTML, ReactJS, Bootstrap, jQuery, AJAX, JPA, JSTL]
 - 💿 Backend Dev [NodeJS, Spring Tool Suite, Express.JS, Flask, Bcrypt, JSP, JSON, Spring Boot, Tomcat, Apache]
