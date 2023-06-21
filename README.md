@@ -13,6 +13,7 @@ Just completed a coding bootcamp, learned so much, and still eager and excited t
 
 <h3 align="center">Languages and Tools</h3>
 
+<p align="center">
 <a href="https://aws.amazon.com/"><img src="https://static-00.iconduck.com/assets.00/aws-icon-256x256-qvoq2ml5.png" height="48" width="48" ></a>
 <a href="https://getbootstrap.com/"><img src="https://cdn.iconscout.com/icon/free/png-256/free-bootstrap-6-1175203.png" height="48" width="48" ></a>
 <a href="https://aws.amazon.com/"><img src="https://static-00.iconduck.com/assets.00/aws-icon-256x256-qvoq2ml5.png" height="48" width="48" ></a>
@@ -27,6 +28,7 @@ Just completed a coding bootcamp, learned so much, and still eager and excited t
 <a href="https://www.python.org/"><img src="https://cdn-icons-png.flaticon.com/256/919/919852.png" height="48" width="48" ></a>
 <a href="https://react.dev/"><img src="https://www.shareicon.net/download/2016/07/10/119874_apps.ico" height="48" width="48" ></a>
 <a href="https://spring.io/"><img src="https://docs.spring.io/spring-cloud-sleuth/docs/current/reference/htmlsingle/favicon.ico" height="48" width="48" ></a>
+</p>
 - 💬 Languages [Python, JavaScript, Java]
 - 💻 Frontend Dev [CSS, HTML, ReactJS, Bootstrap, jQuery, AJAX, JPA, JSTL]
 - 💿 Backend Dev [NodeJS, Spring Tool Suite, Express.JS, Flask, Bcrypt, JSP, JSON, Spring Boot, Tomcat, Apache]
