@@ -29,6 +29,7 @@ Just completed a coding bootcamp, learned so much, and still eager and excited t
 <a href="https://react.dev/"><img src="https://www.shareicon.net/download/2016/07/10/119874_apps.ico" height="48" width="48" ></a>
 <a href="https://spring.io/"><img src="https://docs.spring.io/spring-cloud-sleuth/docs/current/reference/htmlsingle/favicon.ico" height="48" width="48" ></a>
 </p>
+
 - 💬 Languages [Python, JavaScript, Java]
 - 💻 Frontend Dev [CSS, HTML, ReactJS, Bootstrap, jQuery, AJAX, JPA, JSTL]
 - 💿 Backend Dev [NodeJS, Spring Tool Suite, Express.JS, Flask, Bcrypt, JSP, JSON, Spring Boot, Tomcat, Apache]
