@@ -16,7 +16,7 @@ Just completed a coding bootcamp, learned so much, and still eager and excited t
 <a href="https://aws.amazon.com/"><img src="https://static-00.iconduck.com/assets.00/aws-icon-256x256-qvoq2ml5.png" height="48" width="48" ></a>
 <a href="https://getbootstrap.com/"><img src="https://cdn.iconscout.com/icon/free/png-256/free-bootstrap-6-1175203.png" height="48" width="48" ></a>
 <a href="https://aws.amazon.com/"><img src="https://static-00.iconduck.com/assets.00/aws-icon-256x256-qvoq2ml5.png" height="48" width="48" ></a>
-<a href="https://expressjs.com/"><img src="https://golden-team.org/static/services/express.webp" height="48" width="48" ></a>
+<a href="https://expressjs.com/"><img src="https://www.clairedaniellecassidy.com/resources/express.png" height="48" width="48" ></a>
 <a href="https://git-scm.com/"><img src="https://cdn.iconscout.com/icon/free/png-256/free-git-225996.png?f=webp" height="48" width="48" ></a>
 <a href="https://www.java.com/en/"><img src="https://cdn.iconscout.com/icon/free/png-256/free-java-2038875-1720088.png" height="48" width="48" ></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png" height="48" width="48" ></a>
