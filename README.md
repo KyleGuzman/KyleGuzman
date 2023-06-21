@@ -14,6 +14,7 @@ Just completed a coding bootcamp, learned so much, and still eager and excited t
 <h3 align="center">Languages and Tools</h3>
 
 <a href="https://aws.amazon.com/"><img src="https://static-00.iconduck.com/assets.00/aws-icon-256x256-qvoq2ml5.png" height="48" width="48" ></a>
+<a href="https://getbootstrap.com/"><img src="https://cdn.iconscout.com/icon/free/png-256/free-bootstrap-6-1175203.png" height="48" width="48" ></a>
 
 - 💬 Languages [Python, JavaScript, Java]
 - 💻 Frontend Dev [CSS, HTML, ReactJS, Bootstrap, jQuery, AJAX, JPA, JSTL]
